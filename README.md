@@ -1,2 +1,2 @@
 
-https://heroku.com/deploy?template=https://nonsensexdd/Team-DarkPHOENIX/Miss_Akshi
+https://heroku.com/deploy?template=https://github.com/nonsensexdd/Team-DarkPHOENIX/Miss_Akshi
